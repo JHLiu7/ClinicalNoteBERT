@@ -10,7 +10,7 @@ Using openly available clinical notes, we pretrain ClinicalNoteBERT, a series of
 
 We provide five pretrained models with different pretraining recipes and in different sizes. 
 
-|                            | # Params | Fine-tuning       | Download Links (:hugs:) |
+|                            | # Params | Fine-tuning       | Download Links (🤗 HF) |
 | -------------------------- | -------- | -------- | -------- |
 | ClinicalNoteBERT-note-only | 110M     | 80.0     | [jhliu/ClinicalNoteBERT-base-note_only](https://huggingface.co/jhliu/ClinicalNoteBERT-base-note_only) |
 | ClinicalNoteBERT-note-ntp  | 110M     | **80.6** | [jhliu/ClinicalNoteBERT-base-note_ntp](https://huggingface.co/jhliu/ClinicalNoteBERT-base-note_ntp) |
