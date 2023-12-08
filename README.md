@@ -34,7 +34,10 @@ Code for pretraining is also provided in `pretraining`, including the scripts we
 
 ## 3. Downstream tasks
 
-Code can be found in the directory `downstream_tasks` to curate datasets and run fine-tuning/training and evaluation. Details to be add soon. 
+Code can be found in the directory `downstream_tasks` to curate datasets and run fine-tuning/training and evaluation. 
 
 
 ## Citation
+
+Under review.
+
